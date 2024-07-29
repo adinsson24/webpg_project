@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+    color:white;
+    font-size:40px;
+}
+
+
+
+
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    color: rgb(182, 149, 63);
+   
+}
+
+div{
+    display:flex;
+    gap:270px
+    
+}
+
